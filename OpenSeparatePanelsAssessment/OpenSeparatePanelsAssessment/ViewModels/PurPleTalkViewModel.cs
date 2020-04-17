@@ -8,5 +8,6 @@ namespace OpenSeparatePanelsAssessment.ViewModels
 {
     public class PurPleTalkViewModel
     {
+    
     }
 }

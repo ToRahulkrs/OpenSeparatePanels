@@ -25,11 +25,12 @@ namespace OpenSeparatePanelsAssessment
         public MainWindow()
         {
             InitializeComponent();
+            
         }
 
  
         private void PurpleTalk_Click(object sender, RoutedEventArgs e)
-        {
+        { 
             DataContext = new PurPleTalkViewModel();
         }
 
